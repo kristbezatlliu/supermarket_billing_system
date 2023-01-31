@@ -12,12 +12,21 @@ A Java/swing program developed in Netbeans IDE. \n
 
 ![image](https://user-images.githubusercontent.com/36235930/215625162-c5438334-1221-42cc-b286-f42c784c9eff.png)
 
-### Product list:
-
-![image](https://user-images.githubusercontent.com/36235930/215625184-3d90ed83-20b3-4705-b635-31f12cf662bc.png)
-
 ### Creating a product:
 
 ![productlist](https://user-images.githubusercontent.com/36235930/215627337-b2ae863d-b8a6-4de1-8013-e3ceb36f9547.gif)
 
-d
+### Removing a product:
+
+![remove](https://user-images.githubusercontent.com/36235930/215629286-319c5abb-3666-4ab2-9ea0-987d17b44fce.gif)
+
+### Modifying a product:
+
+![modify](https://user-images.githubusercontent.com/36235930/215629357-be6070d6-318c-4572-859f-2202d55036a7.gif)
+
+### Creating a receipt:
+
+![create_receipt](https://user-images.githubusercontent.com/36235930/215629847-4da7f2d9-ee68-473d-816f-f478f56c0c0f.gif)
+
+
+These are all of the functionalities listed on the program.
