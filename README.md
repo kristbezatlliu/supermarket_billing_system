@@ -18,6 +18,6 @@ A Java/swing program developed in Netbeans IDE. \n
 
 ### Creating a product:
 
-![](https://gyazo.com/862204b88344b0eb38fb639c1423e6fe.gif)
+![productlist](https://user-images.githubusercontent.com/36235930/215627337-b2ae863d-b8a6-4de1-8013-e3ceb36f9547.gif)
 
 
