@@ -15,6 +15,6 @@ Product list:
 ![image](https://user-images.githubusercontent.com/36235930/215625184-3d90ed83-20b3-4705-b635-31f12cf662bc.png)
 
 Creating a product:
-![](https://gyazo.com/862204b88344b0eb38fb639c1423e6fe)
+![](https://gyazo.com/862204b88344b0eb38fb639c1423e6fe.gif)
 
 
