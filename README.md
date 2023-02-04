@@ -1,5 +1,5 @@
 # supermarket billing system
-A Java/swing program developed in Netbeans IDE. \n
+A Java/swing program developed in Netbeans IDE. 
 
 ## Functionalities
 - Saves data on a local database
